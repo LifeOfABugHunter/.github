@@ -18,10 +18,10 @@
 
 | Program | Sector | Safe harbor | Public disclosure | Scope note | Beginner value |
 |---|---|---|---|---|---|
-| [Dept. of the Interior VDP](https://bugcrowd.com/doi-vdp) | US federal gov | Full | Coordinated only | Very wide federal attack surface | Huge scope, mandated under BOD 20-01, stable and long-running |
-| [USDA VDP](https://bugcrowd.com/usda-vdp) | US federal gov | Full | Coordinated only | Broad `.usda.gov` estate | Large surface, low competition versus paid programs |
-| [FDIC VDP](https://bugcrowd.com/fdic-vdp) | US federal gov | Full | Coordinated only | Financial-regulator web assets | Full safe harbor, clear standard disclosure terms |
-| [Dreamscape (Newfold Digital) VDP](https://bugcrowd.com/newfold-dreamscape-vdp) | Private, hosting | Full | Not allowed | Web app | Active program, 78 hall of famers and 236 recently joined |
+| [Dept. of the Interior VDP](https://bugcrowd.com/engagements/doi-vdp) | US federal gov | Full | Coordinated only | Very wide federal attack surface | Huge scope, mandated under BOD 20-01, stable and long-running |
+| [USDA VDP](https://bugcrowd.com/engagements/usda-vdp) | US federal gov | Full | Coordinated only | Broad `.usda.gov` estate | Large surface, low competition versus paid programs |
+| [FDIC VDP](https://bugcrowd.com/engagements/fdic-vdp) | US federal gov | Full | Coordinated only | Financial-regulator web assets | Full safe harbor, clear standard disclosure terms |
+| [Dreamscape (Newfold Digital) VDP](https://bugcrowd.com/engagements/featured/newfold) | Private, hosting | Full | Not allowed | Web app | Active program, 78 hall of famers and 236 recently joined |
 | [Domain VDP](https://bugcrowd.com/domain-vdp-pro) | Private, property | Full | Not allowed | Australian property marketplace brands | Full safe harbor, single commercial web target |
 | [Plusgrade VDP](https://bugcrowd.com/plusgrade-vdp-pro) | Private, travel | Full | Not allowed | Travel/loyalty web platform | Full safe harbor, focused scope you can map fully |
 
